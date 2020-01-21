@@ -5,4 +5,4 @@ then
 else
 	echo Tail
 fi
-echo I have changed from github
+echo I have changed from github remote
